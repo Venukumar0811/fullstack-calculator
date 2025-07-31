@@ -1,4 +1,4 @@
-````markdown
+
 # Full Stack Calculator (React + Node.js)
 
 This is a simple full-stack calculator project that performs basic arithmetic operations (Addition, Subtraction, Multiplication, Division) using a **React frontend** and a **Node.js + Express backend**.
@@ -36,7 +36,7 @@ From this project I learned:
    ```bash
    npm install
    node app.js
-````
+
 
 Server runs at `http://localhost:5000`
 
@@ -65,4 +65,4 @@ project/
         └── App.js
 ```
 
----
+
