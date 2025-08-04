@@ -35,7 +35,7 @@ From this project I learned:
 2. Install dependencies and start server:
    ```bash
    npm install
-   node app.js
+   node server.js
 
 
 Server runs at `http://localhost:5000`
